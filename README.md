@@ -9,8 +9,8 @@ Kevin Matite.
 ## Description.
 Anita's kitchen home of real food, at the right price.      
 ## link.
-https://github.com/kev7862/Anita-s-kitchen.git
+https://kev7862.github.io/Anita-s-kitchen/
 ## Copyright and license information.
 # (MIT) [license].
-Kevin matite 2017
+Kevin matite 2017.
 https://choosealicense.com/licenses/mit
